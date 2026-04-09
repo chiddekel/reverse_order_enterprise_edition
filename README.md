@@ -2,7 +2,7 @@
 
 Reverse an array without using `Array.prototype.reverse`. Return the result. You may mutate the original array.
 
-**Constraint:** your solution must fit in 47 bytes or fewer.
+**Constraint:** your solution must fit in 47 KB or fewer.
 
 ## Example
 
